@@ -4,6 +4,8 @@
 **password:** level00
 
 ## Step 2: Find flag
+`cd ../../..`
+
 `find . -user flag00`
 > ./rofs/usr/sbin/john
 
