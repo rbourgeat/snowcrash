@@ -11,7 +11,9 @@
 
 ## Step 3: On regarde les paquets et leurs longeurs (1)
 
-Pour l'IP 59.233.235.218:39247
+Pour l'IP 59.233.235.218:39247 (celui qui envoie le mdp)
+
+On applique l'ascii du 7f (DEL = remove character precedent)
 
 ft_wandr[7f][7f][7f]NDRel[7f]L0L[0d]
 
